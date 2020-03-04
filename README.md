@@ -14,6 +14,8 @@
 4. [NASA Fire Map:](https://firms.modaps.eosdis.nasa.gov/map/#z:7;c:-119.9,38.9;t:adv-points;d:2018-11-10..2018-11-30;l:firms_modis_a,fire_aqua_crc) An interactive web browser to browse the full archive of global active fire detections.
 5. [Active Fire Data:](https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/active-fire-data) Downloadable active fire products in the form of KML, WMS, or text file formats that provide an overview of the history of active fires around the globe.
 
+- Identifies and describes the dataset and problem at a high-level
+
 **Data Obtained through Web Crawling:**
 1. Twitter Dataset: A dataset containing a thousand Twitter posts using the Twitter search term forest fire acre.
 2. NIFC Statistics: Crawling the National Interagency Fire Center's Statistics to analyze the annual wildfire reportings in the U.S.
