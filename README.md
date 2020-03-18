@@ -62,14 +62,22 @@ Because we wanted to prevent merge conflicts and we wanted to increase productiv
 - _Contain information about how to run your code (include any dependencies, etc.)._
 - _^ DELETE LATER_ 
 
-### Australia Dataset Analysis:
+### Data Analysis Process Summary:
+
+#### Australia Dataset Analysis:
 * Set up the Model
 * Fitted a Linear Regression Model
 * Built a Model Using a Validation Set
 
-### US Dataset Analysis:
+#### US Dataset Analysis:
 * 
 
-### Brazil Dataset Analysis:
+#### Brazil Dataset Analysis:
 * Set up the Model
 * Built a Model Using a Validation Set
+
+#### Results / Observations Obtained:
+* 
+
+### How to Run Code:
+* 
