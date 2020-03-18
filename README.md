@@ -20,6 +20,7 @@
 1. Twitter Dataset: A dataset containing a thousand Twitter posts using the Twitter search term forest fire acre.
 2. NIFC Statistics: Crawling the National Interagency Fire Center's Statistics to analyze the annual wildfire reportings in the U.S.
 
+
 ## Phase 1 and 2 Contributions:
 
 ### Phase 1 Web Crawler Description: 
@@ -35,13 +36,14 @@
 1. Twitter Dataset: A dataset containing a thousand Twitter posts using the Twitter search term `forest fire acre`.
 2. NIFC Statistics: Crawling the National Interagency Fire Center's Statistics to analyze the annual wildfire reportings in the U.S.
 
-#### Phase 2 Plan:
+### Phase 2 Plan:
 Because we wanted to prevent merge conflicts and we wanted to increase productivity, we have split the main three datasets that we have obtained amongst each member. This allows each member to have their own Jupyter notebook and thus perform data cleaning and EDA on their respective dataset. This prevents the issue of merge conflicts and of having all the team members constantly committing and pulling for updates on a single Jupyter notebook. 
 
 #### Outline of Each Member's Responsibilities: 
 ###### Thi Nguyen: Cleaning and EDA on the Australia Dataset
 ###### Sydney Pun: Cleaning and EDA on the United States Dataset
 ###### Heng Tan: Cleaning and EDA on the Brazil Dataset
+
 
 ## Data Analysis Process Summary:
 
@@ -62,6 +64,7 @@ Because we wanted to prevent merge conflicts and we wanted to increase productiv
 
 ### Results / Observations Obtained: 
 * USA Results: Wildfires are primarily caused by lightening strikes. This illustrates the climate change issue. In addition, the average total acres burned down by wildfires is predicted to be 209,707.17121647 acres in 2020.
+
 
 ## How to Run Code:
 
