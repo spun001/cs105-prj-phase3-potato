@@ -78,5 +78,3 @@ _NOTE:_  We are currently working on interfacing the chrome driver to our Twitte
 
 ### How to Run Phase 2 and Phase 3:
 * Download the files from the phase folders and run them on Jupyter Lab.
-
-* _*DELETE LATER*_ _(include any dependencies, etc.)._
