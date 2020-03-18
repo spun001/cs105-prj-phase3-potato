@@ -58,5 +58,9 @@ Because we wanted to prevent merge conflicts and we wanted to increase productiv
 ###### Heng Tan: Cleaning and EDA on the Brazil Dataset
 
 ## Data Analysis Process Summary:
-- Summary of the data analysis process performed for Phase 3 and the results / observations obtained
-- Contain information about how to run your code (include any dependencies, etc.).
+- _Summary of the data analysis process performed for Phase 3 and the results / observations obtained_
+- _Contain information about how to run your code (include any dependencies, etc.)._
+
+### Australia Dataset Analysis:
+* Fitted a Linear Regression Model
+* Built a Model Using a Validation Set
