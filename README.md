@@ -74,6 +74,9 @@ Because we wanted to prevent merge conflicts and we wanted to increase productiv
   * `driver = webdriver.Chrome(executable_path=r"C:\Chrome\chromedriver.exe")`
 * Run `python twitter_scraper.py` and Tweet results will be printed into a CSV file. 
 
-_NOTE:_  We are currently working on interfacing the chrome driver to our Twitter Scraper. As a result, the Twitter Data is not printing into a CSV file. This note will stay on our README.md until the issue is fixed. Thank you! 
+_NOTE:_  We are currently working on interfacing the chrome driver to our Twitter Scraper. As a result, the Twitter Data is not printing into a CSV file. This note will stay on our README.md until the issue is fixed. Thank you!
 
-* _(include any dependencies, etc.)._
+### How to Run Phase 2 and Phase 3:
+* Download the files from the phase folders and run them on Jupyter.
+
+* _*DELETE LATER*_ _(include any dependencies, etc.)._
