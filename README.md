@@ -23,6 +23,17 @@
 ## Phase 1 and 2 Contributions:
 - (can be part of the main readme or link to a differentreadme file)
 
+### Phase 2 Objective:
+In the SECOND phase (Data Cleaning and EDA), we ask you to examine the collected data and perform data cleaning and EDA. Each project is different, so its hard to dictate what each team should do, but your notebook should include code that examines the dataset and performs data cleaning. This can include filling-in missing values, standardizing fields, removing irrelevant columns, binning data into categories because data appears sparse, etc. In doing data cleaning, you are performing EDA, but include additional EDA to visualize your data. You must include a histogram, at least two scatter plots or a pair-wise scatter plot, a parallel coordinates plot, and a box-plot. If a plot is not applicable in your case, then note that and include a different plot. Note, you should perform as much EDA as necessary and this is just minimum requirements
+
+### Phase 2 Plan:
+Because we wanted to prevent merge conflicts and we wanted to increase productivity, we have split the main three datasets that we have obtained amongst each member. This allows each member to have their own Jupyter notebook and thus perform data cleaning and EDA on their respective dataset. This prevents the issue of merge conflicts and of having all the team members constantly committing and pulling for updates on a single Jupyter notebook. 
+
+##### Outline of Each Member's Responsibilities: 
+###### Thi Nguyen: Cleaning and EDA on the Australia Dataset
+###### Sydney Pun: Cleaning and EDA on the United States Dataset
+###### Heng Tan: Cleaning and EDA on the Brazil Dataset
+
 ## Data Analysis Process Summary:
 - Summary of the data analysis process performed for Phase 3 and the results / observations obtained
 - Contain information about how to run your code (include any dependencies, etc.).
