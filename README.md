@@ -35,9 +35,6 @@
 1. Twitter Dataset: A dataset containing a thousand Twitter posts using the Twitter search term `forest fire acre`.
 2. NIFC Statistics: Crawling the National Interagency Fire Center's Statistics to analyze the annual wildfire reportings in the U.S.
 
-### Phase 2 Objective:
-In the SECOND phase (Data Cleaning and EDA), we ask you to examine the collected data and perform data cleaning and EDA. Each project is different, so its hard to dictate what each team should do, but your notebook should include code that examines the dataset and performs data cleaning. This can include filling-in missing values, standardizing fields, removing irrelevant columns, binning data into categories because data appears sparse, etc. In doing data cleaning, you are performing EDA, but include additional EDA to visualize your data. You must include a histogram, at least two scatter plots or a pair-wise scatter plot, a parallel coordinates plot, and a box-plot. If a plot is not applicable in your case, then note that and include a different plot. Note, you should perform as much EDA as necessary and this is just minimum requirements
-
 #### Phase 2 Plan:
 Because we wanted to prevent merge conflicts and we wanted to increase productivity, we have split the main three datasets that we have obtained amongst each member. This allows each member to have their own Jupyter notebook and thus perform data cleaning and EDA on their respective dataset. This prevents the issue of merge conflicts and of having all the team members constantly committing and pulling for updates on a single Jupyter notebook. 
 
@@ -48,20 +45,23 @@ Because we wanted to prevent merge conflicts and we wanted to increase productiv
 
 ## Data Analysis Process Summary:
 
-### Australia Dataset Analysis:
+### Australia Dataset Analysis (Thi Nguyen):
 * Set up the Model
 * Fitted a Linear Regression Model
 * Built a Model Using a Validation Set
 
-### US Dataset Analysis:
-* 
+### US Dataset Analysis (Sydney Pun):
+* Created a Heat Map
+* Set up the Model
+* Fitted a Linear Regression Model
+* Build an Ashen Model to Predict Fire Acres
 
-### Brazil Dataset Analysis:
+### Brazil Dataset Analysis (Heng Tan):
 * Set up the Model
 * Built a Model Using a Validation Set
 
-### Results / Observations Obtained:
-* 
+### Results / Observations Obtained: 
+* USA Results: Wildfires are primarily caused by lightening strikes. This illustrates the climate change issue. In addition, the average total acres burned down by wildfires is predicted to be 209,707.17121647 acres in 2020.
 
 ## How to Run Code:
 
@@ -77,6 +77,6 @@ Because we wanted to prevent merge conflicts and we wanted to increase productiv
 _NOTE:_  We are currently working on interfacing the chrome driver to our Twitter Scraper. As a result, the Twitter Data is not printing into a CSV file. This note will stay on our README.md until the issue is fixed. Thank you!
 
 ### How to Run Phase 2 and Phase 3:
-* Download the files from the phase folders and run them on Jupyter.
+* Download the files from the phase folders and run them on Jupyter Lab.
 
 * _*DELETE LATER*_ _(include any dependencies, etc.)._
