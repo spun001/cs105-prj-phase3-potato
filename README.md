@@ -35,17 +35,6 @@
 1. Twitter Dataset: A dataset containing a thousand Twitter posts using the Twitter search term `forest fire acre`.
 2. NIFC Statistics: Crawling the National Interagency Fire Center's Statistics to analyze the annual wildfire reportings in the U.S.
 
-#### How to Run the Twitter Scraper:
-* Install Python 3.7 or above because previous versions will likely not work.
-* Install Selenium using the command `pip install -U selenium`
-* Download the chromedriver from this link: https://chromedriver.chromium.org/downloads
-* Save the chromedriver to the same path as the `twitter_scraper.py` script. 
-* Open the file `twitter_scraper.py` and specify the path directory for your chromedriver
-  * `driver = webdriver.Chrome(executable_path=r"C:\Chrome\chromedriver.exe")`
-* Run `python twitter_scraper.py` and Tweet results will be printed into a CSV file. 
-
-_NOTE:_  We are currently working on interfacing the chrome driver to our Twitter Scraper. As a result, the Twitter Data is not printing into a CSV file. This note will stay on our README.md until the issue is fixed. Thank you! 
-
 ### Phase 2 Objective:
 In the SECOND phase (Data Cleaning and EDA), we ask you to examine the collected data and perform data cleaning and EDA. Each project is different, so its hard to dictate what each team should do, but your notebook should include code that examines the dataset and performs data cleaning. This can include filling-in missing values, standardizing fields, removing irrelevant columns, binning data into categories because data appears sparse, etc. In doing data cleaning, you are performing EDA, but include additional EDA to visualize your data. You must include a histogram, at least two scatter plots or a pair-wise scatter plot, a parallel coordinates plot, and a box-plot. If a plot is not applicable in your case, then note that and include a different plot. Note, you should perform as much EDA as necessary and this is just minimum requirements
 
@@ -75,4 +64,16 @@ Because we wanted to prevent merge conflicts and we wanted to increase productiv
 * 
 
 ## How to Run Code:
+
+### How to Run the Twitter Scraper:
+* Install Python 3.7 or above because previous versions will likely not work.
+* Install Selenium using the command `pip install -U selenium`
+* Download the chromedriver from this link: https://chromedriver.chromium.org/downloads
+* Save the chromedriver to the same path as the `twitter_scraper.py` script. 
+* Open the file `twitter_scraper.py` and specify the path directory for your chromedriver
+  * `driver = webdriver.Chrome(executable_path=r"C:\Chrome\chromedriver.exe")`
+* Run `python twitter_scraper.py` and Tweet results will be printed into a CSV file. 
+
+_NOTE:_  We are currently working on interfacing the chrome driver to our Twitter Scraper. As a result, the Twitter Data is not printing into a CSV file. This note will stay on our README.md until the issue is fixed. Thank you! 
+
 * _(include any dependencies, etc.)._
