@@ -63,9 +63,13 @@ Because we wanted to prevent merge conflicts and we wanted to increase productiv
 - _^ DELETE LATER_ 
 
 ### Australia Dataset Analysis:
+* Set up the Model
 * Fitted a Linear Regression Model
 * Built a Model Using a Validation Set
 
+### US Dataset Analysis:
+* 
+
 ### Brazil Dataset Analysis:
-* Setting up the Model
+* Set up the Model
 * Built a Model Using a Validation Set
