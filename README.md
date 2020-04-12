@@ -52,7 +52,7 @@ Because we wanted to prevent merge conflicts and we wanted to increase productiv
 * Fitted a Linear Regression Model
 * Built a Model Using a Validation Set
 
-### US Dataset Analysis (Sydney Pun):
+### United States Dataset Analysis (Sydney Pun):
 * Created a Heat Map
 * Set up the Model
 * Fitted a Linear Regression Model
