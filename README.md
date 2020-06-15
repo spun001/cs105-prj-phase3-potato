@@ -1,5 +1,8 @@
 # CS 105 Final Project Phase 3 
 
+## Project Synopsis: 
+An analysis of the global wildfire trends with a focus on Australia, Brazil and the United States using Data Analysis and Machine Learning techniques. 
+
 ## Team Potato Members: 
 ###### Thi Nguyen, 862051496
 ###### Sydney Pun, 862053259
