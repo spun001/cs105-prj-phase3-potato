@@ -82,7 +82,7 @@ Because we wanted to prevent merge conflicts and we wanted to increase productiv
 
 ### How to Run the NIFC Crawler: 
 * Install Python 3.7 or above
-* Run `python nifc_table_crawler.py' and the NIFC stats will be printed into a CSV file. 
+* Run `python nifc_table_crawler.py` and the NIFC stats will be printed into a CSV file. 
 
 ### How to Run Phase 2 and Phase 3:
 * Download the files from the phase folders and run them on Jupyter Lab.
